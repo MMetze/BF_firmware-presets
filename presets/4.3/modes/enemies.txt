@@ -3,8 +3,8 @@
 #$ CATEGORY: MODES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: defaults, reset, mode, modes, adjustments, aux, switch
-#$ AUTHOR: Betaflight
-#$ DESCRIPTION: Resets modes and adjustment ranges to 4.3 defaults
+#$ AUTHOR: GreenT
+#$ DESCRIPTION: Resets modes and adjustment ranges to 4.3
 
 # aux
 aux 0 0 0 900 1750 0 0
