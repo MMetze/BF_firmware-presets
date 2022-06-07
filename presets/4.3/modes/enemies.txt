@@ -1,0 +1,18 @@
+#$ TITLE: GreenTs 4.3 Modes and Adjustment settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: MODES
+#$ STATUS: PRIVATE
+#$ KEYWORDS: defaults, reset, mode, modes, adjustments, aux, switch
+#$ AUTHOR: Betaflight
+#$ DESCRIPTION: Resets modes and adjustment ranges to 4.3 defaults
+
+# aux
+aux 0 0 0 900 1750 0 0
+aux 1 1 1 1550 1600 0 0
+aux 2 13 1 1950 2075 0 0
+aux 3 28 1 975 1025 0 0
+aux 4 35 1 1700 1750 0 0
+
+# rxfail
+rxfail 4 s 2000
+rxfail 5 s 875
